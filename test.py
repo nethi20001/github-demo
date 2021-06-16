@@ -16,3 +16,6 @@ def multiply(x,y):
 def divide(x,y):
     return x/y      #On main branch
 
+
+def square(x):
+    pass
