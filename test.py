@@ -10,7 +10,7 @@ def subtract(x,y):
     
 # Mul implementaion    
 def multiply(x,y):
-    return x*y        #On bug34 branch            
+    return x*y -x+x        #On bug34 branch            
     
 #Divide Implementation    
 def divide(x,y):
