@@ -14,10 +14,5 @@ def multiply(x,y):
     
 #Divide Implementation    
 def divide(x,y):
-    if x<0:
-      return NEGATIVE_PARAM_ERROR #Master branch   
-    if y==0:
-      return DIVISION_BY_0_ERROR #on bug789 branch
-    else:
-        return x/y
+    return x/y      #On main branch
 
