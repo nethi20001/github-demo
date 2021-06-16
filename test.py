@@ -2,6 +2,8 @@
 def add(x,y):
     return x+y
     
+def rand(x):
+        return x+1
 #Subtract implementaion    
 def subtract(x,y):
     return x-y      #On master branch
