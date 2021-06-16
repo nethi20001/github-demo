@@ -6,7 +6,7 @@ def rand(x):
         return x+1
 #Subtract implementaion    
 def subtract(x,y):
-    return x-y      #On master branch
+    return x-y-y+x-x+y      #On master branch
     
 # Mul implementaion    
 def multiply(x,y):
