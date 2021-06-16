@@ -1,6 +1,6 @@
 # AddImplementation
 def add(x,y):
-    return x+y
+    return x+y-y-x+x+y
     
 def rand(x):
         return x+1
